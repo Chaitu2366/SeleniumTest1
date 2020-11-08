@@ -6,5 +6,4 @@ INDEX VERSION 1.131+D:\eclipse 2020 workspace\.metadata\.plugins\org.eclipse.jdt
 1132022205.index
 2049295269.index
 1556906554.index
-1771744846.index
 1097638633.index
